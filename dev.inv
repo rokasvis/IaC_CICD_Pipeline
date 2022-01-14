@@ -1,0 +1,5 @@
+[aws]
+ec2-instance ansible_host=54.216.211.103 ansible_user=ubuntu 
+
+[awsdb]
+ec2-instance ansible_host=34.254.97.39 ansible_user=ubuntu 
